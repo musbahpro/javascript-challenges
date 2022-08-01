@@ -1,6 +1,6 @@
 // Convert from Switch to If
-// let job = "Designer";
-// let salary = 0;
+ let job = "Designer";
+ let salary = 0;
 
 // if (job === "Manager") {
 //   salary = 8000;
